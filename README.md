@@ -1,3 +1,6 @@
+[>>> Direct link to the Software Carpentry event page <<<](https://computecanada.github.io/2017-11-06-umontreal/)
+
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
