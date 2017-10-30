@@ -1,4 +1,4 @@
-[>>> Direct link to the Software Carpentry event page <<<](https://computecanada.github.io/2017-11-06-umontreal/)
+[>>> Direct link to the Software Carpentry event page <<<](https://computecanada.github.io/2017-11-07-mcgill/)
 
 
 # workshop-template
